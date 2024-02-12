@@ -13,9 +13,21 @@ h1 {
     text-align: center;
 }
 
-.list {
+.list-of-recipes {
     color: red;
     display: table;
     margin: auto;
     text-align: center;
+}
+.taco-ingredients {
+    display: table;
+    color: red;
+    margin: auto;
+    /* text-align: center; */
+}
+
+.taco-recipe-steps {
+    display: table;
+    color: darkgreen;
+    margin: auto;
 }
