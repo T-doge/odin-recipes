@@ -30,4 +30,6 @@ h1 {
     display: table;
     color: darkgreen;
     margin: auto;
+}.lasagna {
+    align-self: center;
 }
